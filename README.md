@@ -6,7 +6,7 @@ These days I focus on **AI-augmented testing**: using LLMs to speed up test desi
 
 #### What I'm building
 
-🐉 **[TestGatify](https://github.com/testgatify)**: open-source tools for AI-augmented testing. *Don't just generate tests. Gatify them.*
+✅ **[TestGatify](https://github.com/testgatify)**: open-source tools for AI-augmented testing. *Don't just generate tests. Gatify them.*
 
 - **[TestGatify Review](https://github.com/testgatify/review)**: AI writes your test scenarios from requirements. A static review (coverage, traceability, negative tests, duplicates) decides ACCEPT, MINOR REWORK or MAJOR REWORK, and the scenarios export to Excel and Jira Xray.
 
