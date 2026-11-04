@@ -4,9 +4,11 @@ QA lead with 14+ years of testing in defence, public-sector and telecom projects
 
 These days I focus on **AI-augmented testing**: using LLMs to speed up test design, and testing what they produce before anyone relies on it.
 
-#### Featured project
+#### What I'm building
 
-🐉 **[AI Test Dragon](https://github.com/tulayguclu/ai-test-dragon)**: Claude writes test scenarios from requirements; a static review (coverage, traceability, negative tests, duplicates) decides ACCEPT, MINOR REWORK or MAJOR REWORK, and the scenarios export to Excel and Jira Xray.
+🐉 **[TestGatify](https://github.com/testgatify)**: open-source tools for AI-augmented testing. *Don't just generate tests. Gatify them.*
+
+- **[TestGatify Review](https://github.com/testgatify/review)**: AI writes your test scenarios from requirements. A static review (coverage, traceability, negative tests, duplicates) decides ACCEPT, MINOR REWORK or MAJOR REWORK, and the scenarios export to Excel and Jira Xray.
 
 #### What I work with
 
